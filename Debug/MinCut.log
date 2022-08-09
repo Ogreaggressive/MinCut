@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Tareas\2021\estructura de datos\MinCut\MinCut\main.cpp(16,9): warning C4101: 'numerosArchivo': unreferenced local variable
+C:\Tareas\2021\estructura de datos\MinCut\MinCut\main.cpp(102,9): warning C4101: 'ady': unreferenced local variable
+  MinCut.vcxproj -> C:\Tareas\2021\estructura de datos\MinCut\Debug\MinCut.exe
